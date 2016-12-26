@@ -6,11 +6,6 @@
     <title></title>
   </head>
   <body>
-    aaabbbbbbbb
+    apple index
   </body>
 </html>
-=======
-<?php
-  echo "This is ReadMe!";
-?>
->>>>>>> parent of de240ac... all aaa
