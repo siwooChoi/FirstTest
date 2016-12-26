@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html>
   <head>
@@ -8,3 +9,8 @@
     aaabbbbbbbb
   </body>
 </html>
+=======
+<?php
+  echo "This is ReadMe!";
+?>
+>>>>>>> parent of de240ac... all aaa
