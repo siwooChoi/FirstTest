@@ -6,6 +6,6 @@
     <title></title>
   </head>
   <body>
-    바디태그
+    수정사항
   </body>
 </html>
