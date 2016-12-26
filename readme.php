@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <!DOCTYPE html>
 <html>
   <head>
@@ -6,11 +6,6 @@
     <title></title>
   </head>
   <body>
-    aaabbbbbbbb
+    바디태그
   </body>
 </html>
-=======
-<?php
-  echo "This is ReadMe!";
-?>
->>>>>>> parent of de240ac... all aaa
