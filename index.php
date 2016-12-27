@@ -5,8 +5,9 @@
     <title></title>
   </head>
   <body>
-
+    클론에서 새로운 작업을 수행
   마스터에서 새로운 작업
+
 
   </body>
 </html>
