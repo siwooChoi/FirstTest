@@ -7,7 +7,7 @@
   <body>
 
 
-마스터1
+Git_Example에서 코드의 수정이 일어난다면?
 
 
   </body>
