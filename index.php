@@ -5,7 +5,8 @@
     <title></title>
   </head>
   <body>
-마스터에서 수정을 했음
+
+마스터와 클론에서 전격수정
 
   </body>
 </html>
